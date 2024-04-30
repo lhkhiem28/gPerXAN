@@ -1,0 +1,5 @@
+/datasets
+**/*.pt*
+**/*.out
+
+**/__pycache__
